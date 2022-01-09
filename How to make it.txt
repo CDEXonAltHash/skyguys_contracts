@@ -1,0 +1,2 @@
+1- truffle migrate --reset --network rinkeby
+2- npx truffle run verify SkyGuys --network rinkeby 
